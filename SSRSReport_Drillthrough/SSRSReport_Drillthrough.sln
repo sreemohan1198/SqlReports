@@ -1,0 +1,30 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.5.33627.172
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{F14B399A-7131-4C87-9E4B-1186C45EF12D}") = "SSRSReport_Drillthrough", "SSRSReport_Drillthrough.rptproj", "{CBF55AD3-8E1D-49EF-9DF5-54FCC2CB5BE8}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Default = Debug|Default
+		DebugLocal|Default = DebugLocal|Default
+		Release|Default = Release|Default
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{CBF55AD3-8E1D-49EF-9DF5-54FCC2CB5BE8}.Debug|Default.ActiveCfg = Debug
+		{CBF55AD3-8E1D-49EF-9DF5-54FCC2CB5BE8}.Debug|Default.Build.0 = Debug
+		{CBF55AD3-8E1D-49EF-9DF5-54FCC2CB5BE8}.Debug|Default.Deploy.0 = Debug
+		{CBF55AD3-8E1D-49EF-9DF5-54FCC2CB5BE8}.DebugLocal|Default.ActiveCfg = DebugLocal
+		{CBF55AD3-8E1D-49EF-9DF5-54FCC2CB5BE8}.DebugLocal|Default.Build.0 = DebugLocal
+		{CBF55AD3-8E1D-49EF-9DF5-54FCC2CB5BE8}.Release|Default.ActiveCfg = Release
+		{CBF55AD3-8E1D-49EF-9DF5-54FCC2CB5BE8}.Release|Default.Build.0 = Release
+		{CBF55AD3-8E1D-49EF-9DF5-54FCC2CB5BE8}.Release|Default.Deploy.0 = Release
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {2BF3571B-9E9D-4E3B-A882-6B7BF1CCFDBA}
+	EndGlobalSection
+EndGlobal
